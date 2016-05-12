@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: PAWILON WSPARCIA DEMOKRACJI
-datePublished: '2016-05-12T19:54:27.902Z'
-dateModified: '2016-05-12T19:53:35.255Z'
+datePublished: '2016-05-12T20:00:16.461Z'
+dateModified: '2016-05-12T19:54:41.131Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-pawilon-wsparcia-demokracji.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-pawilon-wsparcia-demokracji.md
 url: pawilon-wsparcia-demokracji/index.html
 _type: Article
 
