@@ -1,7 +1,7 @@
-name: maciekszymanik
+name: Maciek Szymanik
 favicon: null
 layout_spectrum: 0.17099183751270175
-typography_spectrum: 0.0963151438627392
+typography_spectrum: 0.43568
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.579034484224394
-  lightness: 0.852093349210918
-  saturation: 0.18510456453077495
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.6662211732473224
 purpose: []
